@@ -1,0 +1,21 @@
+.nav-center {
+    border: 1px solid red;
+    background-color: royalblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav-links {
+    list-style-type: none;
+}
+
+#button {
+    background-color: darkred;
+    color: snow;
+    width: 90px;
+    height: 40px;
+    border-radius: 3px;
+}
+
+#button:hover {
+    background-color: deeppink;
+}
